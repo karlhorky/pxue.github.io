@@ -107,6 +107,9 @@ A good software engineer should help others make better decisions faster and
 more often.  They are someone who's made lots of decisions, both right and wrong
 ones, and learned something from the wrong ones.
 
+Got a comment, a suggestion? Send me a tweet at [@pxue](https://twitter.com/pxue),
+I'd love to hear your thought!
+
 ---
 
 Footnotes:
