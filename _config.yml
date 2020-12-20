@@ -48,8 +48,15 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
+  - scripts/
 #   - node_modules/
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+jekyll_compose:
+  auto_open: true
+  default_front_matter:
+    posts:
+      category: blog

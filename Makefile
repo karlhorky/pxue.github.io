@@ -1,4 +1,4 @@
-.PHONY: run clean
+.PHONY: run clean build post
 
 all:
 	@echo "****************************"
@@ -13,6 +13,9 @@ all:
 
 print-%: ; @echo $*=$($*)
 
+DATE?=`date +'%Y-%m-%d'`
+POSTDIR="_posts"
+
 run:
 	@bundle exec jekyll serve --incremental
 
@@ -21,3 +24,7 @@ clean:
 
 build:
 	@bundle exec jekyll build
+
+post:
+	@read -r -p "Enter new post title: " title;     \
+	bundle exec jekyll post $${title};
