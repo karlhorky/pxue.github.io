@@ -13,8 +13,7 @@ Unlike linear growth, it's not intuitive for us to visualize the difference betw
 > “The greatest shortcoming of the human race is our inability to understand the exponential function.”
 
 Giving accurate estimates on a new task is very hard. We spend a great deal of energy
-discussing and revising how much effort and resource it takes to get to complete
-a task.
+discussing and revising how much effort and resource it takes to complete a task.
 
 Many tools (Asana, Trello, Jira, Clubhouse, the list goes on) try to help measure, analyze,
 automate the estimation and project management process, yet non of them truly
@@ -29,8 +28,8 @@ this is never the case.
 
 I believe most engineering teams are bad at estimating because they think about efforts linearly.
 
-Tying points to a real-world unit of measurement also incorrectly bind us
-to the wrong narrative.  For example, it's often incorrect to equate points to
+Tying points to a real-world unit of measurement incorrectly bind us
+to the wrong narrative. For example, it's often incorrect to equate points to
 days: time is a linear concept, points of effort are not.
 
 The engineer must be aware that in most cases, increasing a ticket's point
@@ -39,10 +38,11 @@ from 2 to 3 may involve one order of magnitude higher efforts.
 Points should be assigned in a way to explicitly reflect the non-linear increase
 in efforts.
 
-A common technique is to follow the Fibonnaci sequence, points available to assign to tasks are
-`1, 2, 3, 5, 8, 13`. This guides the engineer to think and estimate on
-a non-linear scale, for example, a 5 point ticket may break down into two
-3 point tickets or three 2 point tickets.
+A common technique is to follow the Fibonnaci sequence. The points available to
+assign to tasks are `1, 2, 3, 5, 8, 13`. This help guide the engineer to think and
+estimate on a non-linear scale, for example, a 5 point ticket may break down into two
+3 point tickets or three 2 point tickets. This way, a team can agree on the base
+unit of effort and then scale accordingly to the highest point.
 
 **2.  Measure and iterate**
 
