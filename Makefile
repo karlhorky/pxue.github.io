@@ -8,6 +8,9 @@ all:
 	@echo ""
 	@echo "commands:"
 	@echo "  run                   - run jekyll in dev mode"
+	@echo "  clean                 - clear site cache"
+	@echo "  build                 - build jekyll site"
+	@echo "  post                  - create new post"
 	@echo ""
 	@echo ""
 
