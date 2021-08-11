@@ -30,7 +30,7 @@ process in case we need it in the future.", however, problem is that you can mak
 You also can't catch all edge cases, so reduce the scope, remove the parts
 you don't need *right now* from the requirements.
 
-### Step 3: Simply or optimize
+### Step 3: Simplify or optimize
 
 The most common mistake a smart engineer makes is to *"optimize a thing that
 should not exist"*.
