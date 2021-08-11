@@ -5,7 +5,7 @@ date: 2021-08-11 12:24 -0400
 category: blog
 ---
 
-During a tour of the Spacestation, Elon talked about the process he had implemented at Tesla and SpaceX.
+During a tour of the Starbase, Elon talked about the process he had implemented at Tesla and SpaceX.
 
 I found it insightful and very relevant to all product-centric organizations, so I compiled them here for quick reference in the future.
 
