@@ -25,4 +25,4 @@ I have been an individual contributor for 10+ years. Mostly Go, some React.
 I like to think about new problems, solve old ones better, and always down to hop on a zoom call (or coffee post covid).
 If you need a tech person to bounce your ideas off, don't hesitate to reach out.
 
-📫 You can reach me via my personal email or [LinkedIn](https://www.linkedin.com/in/paulxue/).
+📫 You can reach me via my personal email or [LinkedIn](https://www.linkedin.com/in/pxue/).
